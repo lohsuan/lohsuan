@@ -1,13 +1,7 @@
 <h1 align="center">Hi, This is Yu Hsuan, Lo (Erin) 👋 </h1>
 
-<h2 align="center"> ✨ About me </h2>
-
-<p align="center"> 
-💻 I'm a student studying Computer Science from NTUT </br>
-🌱 I’m currently learning DDD, Clean Architecture, Event Storming and more good design method 
-</p>
-
-<br />
+<h3 align="center">💻 I'm a student studying Computer Science from NTUT </h3>
+<h3 align="center">🌱 I’m currently learning DDD, Clean Architecture, Event Storming and more good design method </h3>
 
 <h2 align="center"> 🖊 Language </h2>
 <p align="center">
@@ -43,6 +37,6 @@
 
 <h2 align="center"> 📊 My Github Stats </h2>
 <p align="center">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=lohsuan&show_icons=true&hide=issues&theme=react">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohsuan&layout=compact&theme=react">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=lohsuan&show_icons=true&hide=issues&theme=buefy">
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohsuan&layout=compact&theme=buefy">
 </p>
