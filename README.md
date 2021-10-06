@@ -3,7 +3,7 @@
 <h3 align="center">💻 I'm a student studying Computer Science from NTUT </h3>
 <h3 align="center">🌱 I’m currently learning DDD, Clean Architecture, Event Storming and more good design method </h3>
 
-<h2 align="center"> 🖊 Language </h2>
+<h2 align="center"> 🖊 Language & tools 🛠</h2>
 <p align="center">
     <img width="36px" src="https://icongr.am/devicon/c-original.svg?size=36&color=currentColor" alt="C" /> 
     <img width="36px" src="https://icongr.am/devicon/cplusplus-original.svg?size=36&color=currentColor" alt="C++"> 
@@ -17,7 +17,6 @@
     <img width="36px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="React" /> 
 </p>
 
-<h2 align="center"> 🛠 tools </h2>
 <p align="center">
     <img width="36px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" alt="npm" /> 
     <img width="36px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="React" /> 
