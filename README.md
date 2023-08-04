@@ -1,7 +1,7 @@
 <h1 align="center">Hi, This is Yu Hsuan, Lo (Erin) 👋 </h1>
 
-<h3 align="center">💻 I'm a student studying Computer Science from NTUT </h3>
-<h3 align="center">🌱 I’m currently learning DDD, Clean Architecture, Event Storming and more good design method </h3>
+<h3 align="center">💻 I am currently pursuing a Master's degree in Computer Science as a student at NYCU. </h3>
+<h3 align="center">🌱 Interested in learning DDD, Clean Architecture, Event Storming, and more good design methods </h3>
 
 <h2 align="center"> 🖊 Language & tools 🛠</h2>
 <p align="center">
